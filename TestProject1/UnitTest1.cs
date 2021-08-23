@@ -44,5 +44,12 @@ namespace TestProject1
             bool result4 = pattern.ValidateLastName("Shubhambodake");
             Assert.IsTrue(result4);
         }
+        [TestMethod]
+        public void TestPasswordRule2()
+        {
+            Pattern pattern = new Pattern();
+            bool result5 = pattern.ValidatePasswordRule2("Shubham@6476");
+            Assert.IsTrue(result5);
+        }
     }
 }
