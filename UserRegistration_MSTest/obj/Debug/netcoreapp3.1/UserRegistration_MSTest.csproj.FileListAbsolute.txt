@@ -1,0 +1,13 @@
+C:\Users\Sandeep\Desktop\CSharp\UserRegistration_MSTest\UserRegistration_MSTest\bin\Debug\netcoreapp3.1\UserRegistration_MSTest.exe
+C:\Users\Sandeep\Desktop\CSharp\UserRegistration_MSTest\UserRegistration_MSTest\bin\Debug\netcoreapp3.1\UserRegistration_MSTest.deps.json
+C:\Users\Sandeep\Desktop\CSharp\UserRegistration_MSTest\UserRegistration_MSTest\bin\Debug\netcoreapp3.1\UserRegistration_MSTest.runtimeconfig.json
+C:\Users\Sandeep\Desktop\CSharp\UserRegistration_MSTest\UserRegistration_MSTest\bin\Debug\netcoreapp3.1\UserRegistration_MSTest.runtimeconfig.dev.json
+C:\Users\Sandeep\Desktop\CSharp\UserRegistration_MSTest\UserRegistration_MSTest\bin\Debug\netcoreapp3.1\UserRegistration_MSTest.dll
+C:\Users\Sandeep\Desktop\CSharp\UserRegistration_MSTest\UserRegistration_MSTest\bin\Debug\netcoreapp3.1\UserRegistration_MSTest.pdb
+C:\Users\Sandeep\Desktop\CSharp\UserRegistration_MSTest\UserRegistration_MSTest\obj\Debug\netcoreapp3.1\UserRegistration_MSTest.csproj.AssemblyReference.cache
+C:\Users\Sandeep\Desktop\CSharp\UserRegistration_MSTest\UserRegistration_MSTest\obj\Debug\netcoreapp3.1\UserRegistration_MSTest.AssemblyInfoInputs.cache
+C:\Users\Sandeep\Desktop\CSharp\UserRegistration_MSTest\UserRegistration_MSTest\obj\Debug\netcoreapp3.1\UserRegistration_MSTest.AssemblyInfo.cs
+C:\Users\Sandeep\Desktop\CSharp\UserRegistration_MSTest\UserRegistration_MSTest\obj\Debug\netcoreapp3.1\UserRegistration_MSTest.csproj.CoreCompileInputs.cache
+C:\Users\Sandeep\Desktop\CSharp\UserRegistration_MSTest\UserRegistration_MSTest\obj\Debug\netcoreapp3.1\UserRegistration_MSTest.dll
+C:\Users\Sandeep\Desktop\CSharp\UserRegistration_MSTest\UserRegistration_MSTest\obj\Debug\netcoreapp3.1\UserRegistration_MSTest.pdb
+C:\Users\Sandeep\Desktop\CSharp\UserRegistration_MSTest\UserRegistration_MSTest\obj\Debug\netcoreapp3.1\UserRegistration_MSTest.genruntimeconfig.cache

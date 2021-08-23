@@ -10,6 +10,7 @@ namespace UserRegistration_MSTest
         public string FIRSTNAME = "^[A-Z][a-z]{2,}$";
         public string LASTNAME = "^[A-Z][a-z]{2,}$";
         public string EMAIL = "^[a-z0-9A-Z]+([._+-][a-z0-9A-Z]+)*[@][a-z0-9A-Z]+[.][a-zA-Z]{2,3}(.[a-zA-Z]{2})?$";
+        public string MOBILENUMBER = "^[0-9]{2}[ ][1-9][0-9]{9}$";
 
         public bool ValidateFirstName(string input)
         {
@@ -22,6 +23,10 @@ namespace UserRegistration_MSTest
         public bool ValidateEmail(string input)
         {
             return Regex.IsMatch(input, EMAIL);
+        }
+        public bool ValidateMobileNumber(string input)
+        {
+            return Regex.IsMatch(input, MOBILENUMBER);
         }
     }
 

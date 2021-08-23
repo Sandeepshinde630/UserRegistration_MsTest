@@ -11,6 +11,7 @@ namespace UserRegistration_MSTest
             bool result = pattern.ValidateFirstName("Sandeep");
             bool result1 = pattern.ValidateLastName("Shinde");
             bool result2 = pattern.ValidateEmail("Sandeepshinde630@gmail.com");
+            bool result3 = pattern.ValidateLastName("91 7757929383");
 
             try
             {
@@ -32,6 +33,12 @@ namespace UserRegistration_MSTest
                 }
 
                 Console.WriteLine(result2);
+                if (result3 != true)
+                {
+                    throw new Exception("Input string is not in correct format");
+                }
+
+                Console.WriteLine(result3);
 
             }
             catch (Exception e)

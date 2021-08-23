@@ -30,5 +30,12 @@ namespace TestProject1
             bool result2 = pattern.ValidateEmail("Sandeepshinde630@gmail.com");
             Assert.IsTrue(result2);
         }
+        [TestMethod]
+        public void TestMobileNumber()
+        {
+            Pattern pattern = new Pattern();
+            bool result3 = pattern.ValidateMobileNumber("91 7757929383");
+            Assert.IsTrue(result3);
+        }
     }
 }
